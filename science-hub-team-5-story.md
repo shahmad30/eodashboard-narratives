@@ -7,7 +7,7 @@ tags: glaciers,climate,third-pole
 ---
 
 # Glacier monitoring under global warming trends through remote sensing – An example from The Third Pole  <!--{ as="img" mode="hero" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Tajikistan_wikivoyage_banner.jpg" }-->
-### Authors: Sheharyar Ahmad, Federico Scoto, Ginevra Chelli, Arslaan Akhtar (University of Leeds) <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
+### Authors: Sheharyar Ahmad, Federico Scoto, Ginevra Chelli, Arslaan Akhtar (Ca' Foscari University of Venice) <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
 
 # 
 *This story is based on results from the Science Hub Challenges organised and hosted by ESA's ESRIN Science Hub in September 2025. The challenge focused on monitoring properties of snow, glaciers and sea ice using the DeepESDL platform. It was developed by a team from University of Leeds.*
@@ -90,7 +90,7 @@ Maps of seasonal LST averaged over 2002-2018 reveal marked spatial variability b
         alt="Kekesayi Glacier location"
     />
     <p style="text-align: center; font-size: 1.2em; margin-top: 10px;">
-        <b>Figure X.</b> Caption.
+        <b>Figure 6.</b> Seasonal Surface Temperature Averages.
     </p>
 </div>
 
@@ -105,7 +105,7 @@ We analysed LST time series trend by quantifying pixels inside the ablation zone
         alt="Kekesayi Glacier location"
     />
     <p style="text-align: center; font-size: 1.2em; margin-top: 10px;">
-        <b>Figure X.</b> Caption.
+        <b>Figure 7.</b> Seasonal Trend of Time Series.
     </p>
 </div>
 
@@ -127,7 +127,7 @@ This represents a **154% increase** in lake area over five years, indicating enh
         alt="Supraglacial lake comparison"
     />
     <p style="text-align: center; font-size: 1.2em; margin-top: 10px;">
-        <b>Figure 6.</b> Comparison of supraglacial lakes between September 2015 (left) and September 2020 (right), showing significant expansion in lake area.
+        <b>Figure 8.</b> Comparison of supraglacial lakes between September 2015 (left) and September 2020 (right), showing significant expansion in lake area.
     </p>
 </div>
 
@@ -147,7 +147,7 @@ The moisture extent maps generally coincide with supraglacial lake locations but
         alt="Moisture extent evolution"
     />
     <p style="text-align: center; font-size: 1.2em; margin-top: 10px;">
-        <b>Figure 7.</b> Evolution of moisture extent across Kekesayi Glacier from 2015 to 2020, showing progressive increase in wet areas.
+        <b>Figure 9.</b> Evolution of moisture extent across Kekesayi Glacier from 2015 to 2020, showing progressive increase in wet areas.
     </p>
 </div>
 
